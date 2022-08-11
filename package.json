@@ -8,6 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@formkit/themes": "^1.0.0-beta.10",
+    "@formkit/vue": "^1.0.0-beta.10",
+    "@headlessui/vue": "^1.6.7",
+    "@heroicons/vue": "^1.0.6",
+    "date-fns": "^2.29.1",
+    "pinia": "^2.0.17",
     "vue": "^3.2.25"
   },
   "devDependencies": {
